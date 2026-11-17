@@ -122,7 +122,7 @@ data class BeatMarker(
 )
 
 /**
- * Strictly curated 6-font bundle (res/font/*.ttf). Zero bloat.
+  * Strictly curated 6-font bundle (in the res/font folder). Zero bloat.
  */
 enum class CuratedFont(
     val displayName: String,
