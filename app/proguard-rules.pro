@@ -1,0 +1,2 @@
+-keep class com.moviemaker.x7d.** { *; }
+-dontwarn androidx.media3.**
